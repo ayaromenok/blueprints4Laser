@@ -8,3 +8,14 @@ different blueprints
 [GRBL](https://github.com/gnea/grbl)
 
 flash: `avrdude -c arduino -b 57600 -P /dev/ttyUSB0 -p atmega328p -vv -U flash:w:grbl_v1.1f.20170801.hex`
+
+laserWeb required laser on/off setup: tools>GCODE:
+ - S255 - ON;
+ - S0 - OFF;
+
+## Materials
+
+###1.5 mm plywood
+
+    - 800 mm/min
+    - 8-10 times
