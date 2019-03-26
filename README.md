@@ -23,3 +23,7 @@ laserWeb required:
 
     - 800 mm/min
     - 8-10 times
+    
+## Parallel Line  
+
+It should be some distance between parallel linse - LaserWeb can ignor them, if the too long (104mm is defenetly ignored)
