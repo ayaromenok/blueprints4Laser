@@ -23,15 +23,15 @@ $INSBASE
   9
 $EXTMIN
  10
--2.5
+2
  20
-1.5
+2
  30
 0
   9
 $EXTMAX
  10
-72.5
+74
  20
 31.5
  30
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-46.19118664833324
+42.67084216936115
  22
-24.07346679054781
+20.51756327643449
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-59.52582482625855
+59.52582482625881
  41
 1.869772998805257
  42
@@ -2693,53 +2693,9 @@ SECTION
   2
 ENTITIES
   0
-CIRCLE
-  5
-4F
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-32
- 20
-18
- 40
-1.3
-  0
-CIRCLE
-  5
-50
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-44
- 20
-18
- 40
-1.3
-  0
 LWPOLYLINE
   5
-51
+4F
 100
 AcDbEntity
   8
@@ -2777,95 +2733,7 @@ AcDbPolyline
   0
 CIRCLE
   5
-52
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-26.5
- 20
-22
- 40
-1
-  0
-CIRCLE
-  5
-53
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-5.5
- 20
-22
- 40
-1
-  0
-CIRCLE
-  5
-54
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-26.5
- 20
-9.5
- 40
-1
-  0
-CIRCLE
-  5
-55
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-5.5
- 20
-9.5
- 40
-1
-  0
-CIRCLE
-  5
-56
+50
 100
 AcDbEntity
   8
@@ -2887,95 +2755,7 @@ AcDbCircle
   0
 CIRCLE
   5
-57
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-49.5
- 20
-12
- 40
-1
-  0
-CIRCLE
-  5
-58
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-70.5
- 20
-12
- 40
-1
-  0
-CIRCLE
-  5
-59
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-49.5
- 20
-24.5
- 40
-1
-  0
-CIRCLE
-  5
-5A
-100
-AcDbEntity
-  8
-camRPI
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-70.5
- 20
-24.5
- 40
-1
-  0
-CIRCLE
-  5
-5B
+51
 100
 AcDbEntity
   8
@@ -2997,7 +2777,7 @@ AcDbCircle
   0
 LWPOLYLINE
   5
-5C
+52
 100
 AcDbEntity
   8
@@ -3035,7 +2815,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-5D
+53
 100
 AcDbEntity
   8
@@ -3073,7 +2853,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-5E
+54
 100
 AcDbEntity
   8
@@ -3111,7 +2891,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-5F
+55
 100
 AcDbEntity
   8
@@ -3149,7 +2929,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-60
+56
 100
 AcDbEntity
   8
@@ -3187,11 +2967,11 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-61
+57
 100
 AcDbEntity
   8
-camRPI
+camRPIBox
   6
 ByLayer
  62
@@ -3223,7 +3003,227 @@ AcDbPolyline
  20
 2
   0
-LWPOLYLINE
+CIRCLE
+  5
+58
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+26.5
+ 20
+9.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+59
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+5.5
+ 20
+9.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+5A
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+26.5
+ 20
+22.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+5B
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+5.5
+ 20
+22.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+5C
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+49.5
+ 20
+24.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+5D
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+70.5
+ 20
+24.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+5E
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+49.5
+ 20
+11.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+5F
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+70.5
+ 20
+11.5
+ 40
+1.3
+  0
+CIRCLE
+  5
+60
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+31.65
+ 20
+18
+ 40
+1.3
+  0
+CIRCLE
+  5
+61
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+44.35
+ 20
+18
+ 40
+1.3
+  0
+LINE
   5
 62
 100
@@ -3237,29 +3237,231 @@ ByLayer
 370
    -1
 100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
+AcDbLine
+ 10
+2
+ 20
+26
+ 11
+46
+ 21
+26
+  0
+LINE
+  5
+63
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+46
+ 20
+26
+ 11
+49
+ 21
+28
+  0
+LINE
+  5
+64
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+49
+ 20
+28
+ 11
+71
+ 21
+28
+  0
+LINE
+  5
+65
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+71
+ 20
+28
+ 11
+74
+ 21
+25
+  0
+LINE
+  5
+66
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+74
+ 20
+25
+ 11
+74
+ 21
+9
+  0
+LINE
+  5
+67
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+74
+ 20
+9
+ 11
+72.5
+ 21
+7.5
+  0
+LINE
+  5
+68
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
  10
 72.5
  20
-26.5
+7.5
+ 11
+28.5
+ 21
+7.5
+  0
+LINE
+  5
+69
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
  10
-3.5
- 20
-26.5
- 10
-3.5
+28.5
  20
 7.5
+ 11
+27
+ 21
+6
+  0
+LINE
+  5
+6A
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
  10
-72.5
+27
  20
-7.5
+6
+ 11
+2
+ 21
+6
+  0
+LINE
+  5
+6B
+100
+AcDbEntity
+  8
+camRPI
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+2
+ 20
+6
+ 11
+2
+ 21
+26
   0
 ENDSEC
   0
