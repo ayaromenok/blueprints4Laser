@@ -27,3 +27,9 @@ laserWeb required:
 ## Parallel Line  
 
 It should be some distance between parallel linse - LaserWeb can ignor them, if the too long (104mm is defenetly ignored)
+
+## 3D printer software 
+
+https://github.com/superjamie/lazyweb/wiki/3D-Printing-Control-Boards-and-Firmware
+https://www.repetier-server.com/download-repetier-server/
+https://reprap.org/wiki/List_of_Firmware
