@@ -1,6 +1,6 @@
 (export (version D)
   (design
-    (source /home/az/tmp/kikad/test01/test01.sch)
+    (source /home/az/projects/48_blueprints3LaserCut/pcb/rpi_cm3_3cams/test01/test01.sch)
     (date "Di 30 Apr 2019 10:00:04 CEST")
     (tool "Eeschema 5.1.2-f72e74a~84~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
@@ -283,7 +283,7 @@
     (library (logical MCU_Module)
       (uri /usr/share/kicad/library/MCU_Module.lib))
     (library (logical myLib)
-      (uri /home/az/tmp/kikad/test01/Connector_Generic_my.lib)))
+      (uri /home/az/projects/48_blueprints3LaserCut/pcb/rpi_cm3_3cams/test01/Connector_Generic_my.lib)))
   (nets
     (net (code 1) (name "Net-(JCam0-Pad3)")
       (node (ref JCam0) (pin 3))

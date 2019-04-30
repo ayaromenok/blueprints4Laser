@@ -1,4 +1,4 @@
-(pcb /home/az/tmp/kikad/test01/test01.dsn
+(pcb /home/az/projects/48_blueprints3LaserCut/test01/test01.dsn
   (parser
     (string_quote ")
     (space_in_quoted_tokens on)
