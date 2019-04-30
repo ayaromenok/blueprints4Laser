@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name myLib)(type Legacy)(uri /home/az/tmp/kikad/test01/Connector_Generic_my.lib)(options "")(descr ""))
+)
