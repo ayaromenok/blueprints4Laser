@@ -6,3 +6,6 @@ https://antmicro.com/blog/2019/03/nvidia-jetson-nano-antmicros-baseboard/
 
 Docs jetson Nano:
 https://github.com/antmicro/jetson-nano-baseboard
+
+6x2CSI. issue with kernel 4.x
+https://auvidea.eu/j20/
