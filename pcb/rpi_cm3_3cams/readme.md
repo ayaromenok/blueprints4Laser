@@ -10,3 +10,12 @@ possible improvements:
 done with KiCad 5.x
 use local libs
 autoreroute for kiCad 5.x.x https://www.youtube.com/watch?v=7Kk8T_bBaVY (installed in /opt/layout/bin/freeRouting.jar)
+
+KiCad/rpi:
+not integrated yet:
+https://github.com/JoanTheSpark/KiCAD
+https://github.com/KiCad/kicad-footprints/pull/1158
+
+Docs:
+https://www.raspberrypi.org/documentation/hardware/camera/schematics/rpi_SCH_Camera2_2p1.pdf
+
